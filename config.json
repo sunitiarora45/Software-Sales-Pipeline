@@ -1,0 +1,17 @@
+{
+    "mysql": {
+        "host": "localhost",
+    	"user": "admin",
+    	"password": "password",
+    	"database": "Fortune_500"
+    },
+    
+    "grafana" : {
+        "url": "http://localhost:3000/d",
+        "dashboard_id": "d090e3da-ee13-4ca7-b510-a7d61706c735",
+        "dashboard_slug": "sales-dashboard",
+        "org_id": 1
+    
+    }
+    
+}
